@@ -16,6 +16,7 @@
  *
  */
 var games = {
+    "legacyofgoku": "Dragon Ball Z: The Legacy of Goku"
     "advancewars":"Advance Wars",
     "advancewars2":"Advance Wars 2",
     "aladdin":"Aladdin",
